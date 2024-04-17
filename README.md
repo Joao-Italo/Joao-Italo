@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre Mim
-Olá! Meu nome é João Italo, sou um desenvolvedor fullstack apaixonado por criar soluções inovadoras e eficientes. Eu tenho experiência em uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, Node.js, Java.
+Olá! Meu nome é João Italo, sou um desenvolvedor FullStack apaixonado por criar soluções inovadoras e eficientes. Eu tenho experiência em uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, Node.js, Java.
 
 ## Habilidades
 - **Frontend:**
